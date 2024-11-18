@@ -1,0 +1,4 @@
+import collatz
+import sys
+
+sys.exit(collatz.main())
