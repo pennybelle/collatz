@@ -8,3 +8,9 @@ wheels/
 
 # venv
 .venv
+
+# pngs
+*.png
+
+# workspace
+*.code-workspace
